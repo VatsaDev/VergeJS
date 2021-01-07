@@ -19,7 +19,9 @@ Dont kill your UX, use Verge
  ![logo](https://github.com/VatsaDev/VergeJS/blob/main/logo%20(2).svg "logo")
 
 <h3 id = "start">Getting started</h3>
+
 cdn
+
 ```html
  <script src = "https://cdn.jsdelivr.net/npm/vergejs@1.0.0/index.min.js"></script>
  <script src = "https://unpkg.com/vergejs@1.0.0/index.js"></script>
