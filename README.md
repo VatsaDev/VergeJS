@@ -6,7 +6,7 @@
 ## contents
  - <a href = "#overview"> Overview </a>
  - <a href = "#logo"> Use our logo </a>
- - <a href = "#contri"> Use our logo </a>
+ - <a href = "#contri"> Contribute </a>
 
 <h3 id = "overview">Overview</h3>
 
