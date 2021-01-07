@@ -11,12 +11,6 @@
 
 <h3 id = "overview">Overview</h3>
 
-cdn
-```html
- <script src = "https://cdn.jsdelivr.net/npm/vergejs@1.0.0/index.min.js"></script>
- <script src = "https://unpkg.com/vergejs@1.0.0/index.js"></script>
-```
-
 jquery is overkill <br>
 Use what's right, use the light weight Verge <br>
 A lot of site need light weight rendering and simple functions and are forced to use jquery. <br>
@@ -25,7 +19,11 @@ Dont kill your UX, use Verge
  ![logo](https://github.com/VatsaDev/VergeJS/blob/main/logo%20(2).svg "logo")
 
 <h3 id = "start">Getting started</h3>
-
+cdn
+```html
+ <script src = "https://cdn.jsdelivr.net/npm/vergejs@1.0.0/index.min.js"></script>
+ <script src = "https://unpkg.com/vergejs@1.0.0/index.js"></script>
+```
 
 <h3 id = "Logo">Use our logo!</h3>
 to support or show that you use our library, use these logos <br>
