@@ -27,6 +27,7 @@ to support or show that you use our library, use these logos <br>
 <h3 id = "contri">Contribute</h3>
 to contribute, please format with prettier <br>
 steps to contribute
+
  - fork repo
  - commit
  - p
