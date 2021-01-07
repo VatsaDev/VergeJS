@@ -5,6 +5,7 @@
 
 ## contents
  - <a href = "#overview"> Overview </a>
+ - <a href = "#start"> getting started </a>
  - <a href = "#logo"> Use our logo </a>
  - <a href = "#contri"> Contribute </a>
 
@@ -16,6 +17,9 @@ A lot of site need light weight rendering and simple functions and are forced to
 Dont kill your UX, use Verge
 
  ![logo](https://github.com/VatsaDev/VergeJS/blob/main/logo%20(2).svg "logo")
+
+<h3 id = "start">Getting started</h3>
+
 
 <h3 id = "Logo">Use our logo!</h3>
 to support or show that you use our library, use these logos <br>
