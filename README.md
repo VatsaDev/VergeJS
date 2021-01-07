@@ -30,7 +30,7 @@ cdn
 hello world
 
 ```javascript
- verge(" # test ").render("This div was created with VergeJS");
+ verge("#test").render("This div was created with VergeJS");
 ```
 
 <h3 id = "Logo">Use our logo!</h3>
