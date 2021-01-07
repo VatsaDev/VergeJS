@@ -14,4 +14,5 @@ Dont kill your UX, use Verge
 to support or show that you use our library, use these logos <br>
 
 #### cards
-![card 1](card.svg "Card theme 1")
+![card 1](https://github.com/VatsaDev/VergeJS/blob/main/Card.svg "Card theme 1") &nbsp; 
+![card 2](https://github.com/VatsaDev/VergeJS/blob/main/Card-2.svg "Card theme 2")
