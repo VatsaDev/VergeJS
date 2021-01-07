@@ -30,13 +30,5 @@ steps to contribute
 
  - fork repo
  - commit
- - p
+ - pull request
  
-
-#### cards
-![card 1](https://github.com/VatsaDev/VergeJS/blob/main/Card.svg "Card theme 1") &nbsp; 
-![card 2](https://github.com/VatsaDev/VergeJS/blob/main/Card-2.svg "Card theme 2")
-
-#### Logos
-![logo 1](https://github.com/VatsaDev/VergeJS/blob/main/logo%20(1).svg "logo 1") &nbsp; 
-![logo 2](https://github.com/VatsaDev/VergeJS/blob/main/logo%20(2).svg "logo 2")
