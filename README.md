@@ -1,4 +1,5 @@
-![version](https://img.shields.io/badge/version-1.0.0-blue)
+![version](https://img.shields.io/badge/version-1.0.0-blue)<br>
+[![](https://data.jsdelivr.com/v1/package/npm/vergejs/badge)](https://www.jsdelivr.com/package/npm/vergejs)
 
 # VergeJS
 
