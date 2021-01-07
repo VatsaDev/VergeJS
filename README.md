@@ -10,7 +10,9 @@ Use what's right, use the light weight Verge <br>
 A lot of site need light weight rendering and simple functions and are forced to use jquery. <br>
 Dont kill your UX, use Verge
 
-![logo](https://github.com/VatsaDev/VergeJS/blob/main/logo%20(2).svg "logo")
+<center> 
+ ![logo](https://github.com/VatsaDev/VergeJS/blob/main/logo%20(2).svg "logo")
+</center>
 
 <h3 id = "Logo">Use our logo!</h3>
 to support or show that you use our library, use these logos <br>
