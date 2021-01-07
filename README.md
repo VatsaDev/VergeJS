@@ -27,6 +27,12 @@ cdn
  <script src = "https://unpkg.com/vergejs@1.0.0/index.js"></script>
 ```
 
+hello world
+
+```javascript
+ verge()
+```
+
 <h3 id = "Logo">Use our logo!</h3>
 to support or show that you use our library, use these logos <br>
 
