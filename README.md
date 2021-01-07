@@ -32,3 +32,5 @@ steps to contribute
  - commit
  - pull request
  
+ After review, we'll reject or approve
+ 
